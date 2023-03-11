@@ -1,0 +1,3 @@
+Formula for Getting the Numeric Value of entry:
+    Entry(ij) = j + [(i-1)*column]
+    
